@@ -17,7 +17,7 @@ Program uses Java's reflection API while helps to resolve the variables.
 
 - F String Support For Java
 - fs.fprint(Instance,"Your text {yourvariable}") // can be used for printing the mesage
-- fs.getFString(Instance,"Your text {yourvariable}") // cab be used for storing the value of F String in variable
+- fs.getFString(Instance,"Your text {yourvariable}") // can be used for storing the value of F String in variable
 
 
 
